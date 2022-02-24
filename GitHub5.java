@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class mert_duyar13 {
+public class GitHub5 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);

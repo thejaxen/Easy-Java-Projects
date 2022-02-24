@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class mert_duyar4 {
+public class GitHub3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int numberofelements = sc.nextInt();

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class mert_duyar21 {
+public class GitHub6 {
     public static void main(String[] args) {
         Scanner N = new Scanner(System.in);
         int ctr = N.nextInt();

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class mert_duyarq1 {
+public class GitHub8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String array = sc.nextLine();
